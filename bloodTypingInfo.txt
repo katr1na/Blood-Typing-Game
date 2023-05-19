@@ -1,0 +1,9 @@
+Blood typing is a process that allows you to determine the type of any blood sample.
+A blood type can be A, B, AB, or O. An RH factor determines whether the blood is positive or negative.
+Mix 3 antibody serums (anti-A, anti-B, anti-RH) with the blood sample to see which agglutinate (clump).
+
+If anti-A agglutinates: blood is type A
+If anti-B agglutinates: blood is type B
+If anti-A and anti-B agglutinate: blood is type AB
+If neither agglutinate: blood is type O
+If anti-RH agglutinates: blood is positive

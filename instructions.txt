@@ -1,0 +1,11 @@
+Instructions:
+1. Determine patient blood type by looking at if A, B, or RH agglutinate or not. 
+    Refer to key for help.
+2. Give correct blood bag to patient:
+    If you give the right blood type: patient's health increases
+    If you give the wrong blood type: patient's health decreases
+    
+Give the patient enough blood bags to fully heal them.
+Generate different blood bags, if needed.
+
+REFER TO THE BLOOD COMPATIBILITY CHART FOR HELP
