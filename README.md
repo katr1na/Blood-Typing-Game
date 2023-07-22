@@ -9,9 +9,10 @@ repeatedly played, and the results are logged in an external file for the user t
 <br />
 
 
-<h2>Languages Used</h2>
+<h2>Languages and Utilities Used</h2>
 
-- <b>C++</b> 
+- <b>C++</b>
+- <b>Make</b> 
 
 <h2>Program walk-through:</h2>
 
