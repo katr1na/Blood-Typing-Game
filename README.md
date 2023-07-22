@@ -16,32 +16,42 @@ repeatedly played, and the results are logged in an external file for the user t
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Prompt user for name and provide gameplay instructions: <br/>
+<img src="https://i.imgur.com/QbwSWAe.png" height="80%" width="80%" alt="Instructions and Gameplay"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Go through blood typing process and prompt user for correct blood type:  <br/>
+<img src="https://i.imgur.com/Lz9ewDz.png" height="80%" width="80%" alt="Blood Typing Process"/>
+<br />
+<img src="https://i.imgur.com/gJD1EsL.png" height="80%" width="80%" alt="Blood Typing Process"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+User has to input correct blood type that is compatible with patient's blood type: <br/>
+<img src="https://i.imgur.com/2wof7oZ.png" height="80%" width="80%" alt="Blood Type Input"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+When user inputs correct blood type: <br/>
+<img src="https://i.imgur.com/iuxbGsQ.png" height="80%" width="80%" alt="Correct Blood Type Input"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+When user inputs wrong blood type: <br/>
+<img src="https://i.imgur.com/VPK0G1T.png" height="80%" width="80%" alt="Wrong Blood Type Input"/>
+<br />
+<br/>
+When user wants to generate different options:  <br/>
+<img src="https://i.imgur.com/eRqEN1d.png" height="80%" width="80%" alt="Different Options Input"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Patient is healed:  <br/>
+<img src="https://i.imgur.com/kflu3Qx.png" height="80%" width="80%" alt="Patient is Healed"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Patient has died:  <br/>
+<img src="https://i.imgur.com/XYg1sEK.png" height="80%" width="80%" alt="Patient has Died"/>
+<br />
+<br />
+Results are logged to file:  <br/>
+<img src="https://i.imgur.com/7DYumTV.png" height="80%" width="80%" alt="Results are Logged"/>
 </p>
 
 <!--
